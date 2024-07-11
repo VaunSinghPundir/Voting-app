@@ -1,0 +1,3 @@
+admin (rajiv kumar)token for create candidate: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2Njk4MTFlOGI4ZWQ4NWFhMDY5NGMxYSIsImlhdCI6MTcxODE5MDM2Nn0.DdN3FcwqKSpq5gLJRtpodK_irzLWvWDYfTrrNBNBork"
+
+
